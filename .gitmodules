@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/nicozo/wish_shooting_stars_api
+[submodule "front"]
+  path = front
+  url = https://github.com/nicozo/wish_shooting_stars_front
